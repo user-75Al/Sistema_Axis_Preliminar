@@ -1,0 +1,4 @@
+admin|admin123|ADMINISTRADOR|
+gerente|gerente123|GERENTE_RRHH|
+supervisor|supervisor123|SUPERVISOR_RRHH|
+empleado|empleado123|EMPLEADO|XWL-Z43

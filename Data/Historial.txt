@@ -1,0 +1,14 @@
+18/10/2026 17:41:15 | ACTUALIZACION: [ZW99-2] Galletas Globito 45g, Cant: 20, Precio: $24.85
+18/10/2026 18:11:08 | REGISTRO: [ZW99-8] Cod: 334555, chocolate sin azucar 10g, Cant: 23, Precio: $15.77
+18/10/2026 22:54:02 | EMPLEADO: [EMP-1] Cedula: 1001, JUAN PEREZ, Cargo: VENDEDOR
+18/10/2026 23:55:13 | EMPLEADO: [1001] JUAN PEREZ, Cargo: VENDEDOR, Salario diario: $450.50, Jornada: 8.00 h
+18/10/2026 23:59:24 | ACTUALIZACION DE EMPLEADO: [1001] JUAN PEREZ, Cargo: VENDEDOR, Sal. diario: $315.00, Jornada: 8.00 h
+19/10/2026 00:05:40 | EMPLEADO: [XWL-Z40] N. Empleado: 1001, JUAN PEREZ, Cargo: VENDEDOR, Sal. diario: $450.50, Jornada: 8.00 h
+19/10/2026 00:11:00 | EMPLEADO: [XWL-Z41] N. Empleado: 1002, MARIA LOPEZ, Cargo: CAJERA, Sal. diario: $380.00, Jornada: 6.50 h
+19/10/2026 01:08:28 | EMPLEADO: [XWL-Z42] N. Empleado: 1004, Alessandro burgos, Cargo: jefe, Sal. diario: $500.00, Jornada: 8.00 h
+19/10/2026 01:36:51 | ENTRADA ASISTENCIA: [XWL-Z40] N. Empleado: 1001, JUAN PEREZ, Hora: 01:36:51
+19/10/2026 02:09:27 | ENTRADA ASISTENCIA: [XWL-Z42] N. Empleado: 1004, Alessandro burgos, Hora: 02:09:27
+19/10/2026 05:03:43 | ELIMINACION DE EMPLEADO: [XWL-Z42]
+19/10/2026 05:05:38 | EMPLEADO: [XWL-Z43] N. Empleado: 1003, Alessandro Burgos Puch, Cargo: Empleado, Sal. diario: $315.00, Jornada: 8.00 h
+19/10/2026 05:07:10 | ENTRADA ASISTENCIA: [XWL-Z43] N. Empleado: 1003, Alessandro Burgos Puch, Hora: 05:07:10
+19/10/2026 05:09:06 | ENTRADA ASISTENCIA: [XWL-Z43] N. Empleado: 1003, Alessandro Burgos Puch, Hora: 05:09:06

@@ -1,0 +1,16 @@
+# Compilados y binarios
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+
+# Archivos temporales de datos
+Data/Temporal.txt
+Data/Empleados_Temporal.txt
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*~
