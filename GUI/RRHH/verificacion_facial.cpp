@@ -148,6 +148,7 @@ static std::string buscarCascada(void)
         "C:\\opencv\\build\\etc\\haarcascades\\haarcascade_frontalface_default.xml",
         "C:\\opencv\\data\\haarcascades\\haarcascade_frontalface_default.xml",
         "C:\\msys64\\mingw64\\share\\opencv4\\haarcascades\\haarcascade_frontalface_default.xml",
+        "C:\\msys64\\mingw64\\share\\opencv5\\haarcascades\\haarcascade_frontalface_default.xml",
         "C:\\msys64\\mingw64\\share\\opencv\\haarcascades\\haarcascade_frontalface_default.xml",
         "C:\\msys64\\mingw64\\etc\\haarcascades\\haarcascade_frontalface_default.xml"
     };
@@ -165,7 +166,8 @@ static std::string buscarCascada(void)
         std::string opciones[] = {
             base + "\\etc\\haarcascades\\haarcascade_frontalface_default.xml",
             base + "\\..\\etc\\haarcascades\\haarcascade_frontalface_default.xml",
-            base + "\\share\\opencv4\\haarcascades\\haarcascade_frontalface_default.xml"
+            base + "\\share\\opencv4\\haarcascades\\haarcascade_frontalface_default.xml",
+            base + "\\share\\opencv5\\haarcascades\\haarcascade_frontalface_default.xml"
         };
 
         for (size_t i = 0; i < sizeof(opciones) / sizeof(opciones[0]); i++)
